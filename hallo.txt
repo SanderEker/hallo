@@ -1,6 +1,4 @@
 hallo git
-<<<<<<< HEAD
 welkom master
 een verandering
-=======
->>>>>>> adb637d45bca5cdab94dc6da2b29d0f655556b61
+
